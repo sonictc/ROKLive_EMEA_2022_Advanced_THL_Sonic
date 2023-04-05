@@ -1260,7 +1260,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -1566,7 +1565,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -1867,7 +1865,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -2168,7 +2165,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -2464,7 +2460,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -2760,7 +2755,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -3056,7 +3050,6 @@ Children:
                 Type: PolyLine
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -3206,7 +3199,6 @@ Children:
               Value: "ns=40;%PROJECTDIR%/Graphic/RA_TopCircle-001.svg"
             - Name: NumberAnimation1
               Type: NumberAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: To
                 Type: BaseDataVariableType
@@ -3253,7 +3245,6 @@ Children:
               Value: "ns=40;%PROJECTDIR%/Graphic/RA_TopCircle-003.svg"
             - Name: NumberAnimation1
               Type: NumberAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: To
                 Type: BaseDataVariableType
@@ -3289,7 +3280,6 @@ Children:
               Value: "ns=40;%PROJECTDIR%/Graphic/RA_TopCircle-005.svg"
             - Name: NumberAnimation1
               Type: NumberAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: To
                 Type: BaseDataVariableType
@@ -3325,7 +3315,6 @@ Children:
               Value: "ns=40;%PROJECTDIR%/Graphic/RA_TopCircle-006.svg"
             - Name: NumberAnimation1
               Type: NumberAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: To
                 Type: BaseDataVariableType
@@ -4438,7 +4427,6 @@ Children:
             Type: PolyLine
           - Name: Fade
             Type: SequentialAnimation
-            ReferenceType: HasAnimation
             Children:
             - Name: Running
               Type: BaseDataVariableType
@@ -4446,7 +4434,6 @@ Children:
               Value: true
             - Name: NumberAnimation1
               Type: NumberAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: To
                 Type: BaseDataVariableType
@@ -4467,7 +4454,6 @@ Children:
                 Value: false
             - Name: NumberAnimation2
               Type: NumberAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: To
                 Type: BaseDataVariableType
@@ -4491,7 +4477,6 @@ Children:
             Children:
             - Name: Fade
               Type: SequentialAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: Running
                 Type: BaseDataVariableType
@@ -4499,7 +4484,6 @@ Children:
                 Value: true
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -4524,7 +4508,6 @@ Children:
                   Value: true
               - Name: NumberAnimation2
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -4645,7 +4628,6 @@ Children:
               Value: 0.0
             - Name: Fade
               Type: SequentialAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: Running
                 Type: BaseDataVariableType
@@ -4658,7 +4640,6 @@ Children:
                 Value: -1
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -4688,7 +4669,6 @@ Children:
                   Value: 700
               - Name: NumberAnimation2
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -4815,7 +4795,6 @@ Children:
               Value: 0.0
             - Name: Fade
               Type: SequentialAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: Running
                 Type: BaseDataVariableType
@@ -4828,7 +4807,6 @@ Children:
                 Value: -1
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -4858,7 +4836,6 @@ Children:
                   Value: 900
               - Name: NumberAnimation2
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -4985,7 +4962,6 @@ Children:
               Value: 0.0
             - Name: Fade
               Type: SequentialAnimation
-              ReferenceType: HasAnimation
               Children:
               - Name: Running
                 Type: BaseDataVariableType
@@ -4998,7 +4974,6 @@ Children:
                 Value: -1
               - Name: NumberAnimation1
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
@@ -5028,7 +5003,6 @@ Children:
                   Value: 1100
               - Name: NumberAnimation2
                 Type: NumberAnimation
-                ReferenceType: HasAnimation
                 Children:
                 - Name: To
                   Type: BaseDataVariableType
